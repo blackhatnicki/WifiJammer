@@ -26,7 +26,7 @@ Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 [![License](https://img.shields.io/badge/License-GPL-red.svg)](https://github.com/aryanrtm/KawaiiDeauther/blob/master/LICENSE)  [![Version](https://img.shields.io/badge/Release-1.2-blue.svg?maxAge=259200)]()  [![Build](https://img.shields.io/badge/Supported_OS-Linux-green.svg)]()  [![asciinema](https://img.shields.io/badge/asciinema-Demo-red.svg)](https://asciinema.org/a/294970)
 <br/>
 <br/>
-***Kawaii Deauther*** is a pentest toolkit whose goal is to perform jam on WiFi clients/routers and spam many fake AP for testing purposes.
+***SUMAN MONDAL*** is a pentest toolkit whose goal is to perform jam on WiFi clients/routers and spam many fake AP for testing purposes.
 
 ![Screenshot from 2020-01-29 21-11-48](https://i.pinimg.com/originals/8a/87/19/8a87192e7cba6935a4e0015b16f6783a.png)
 
