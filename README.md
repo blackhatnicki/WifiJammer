@@ -15,13 +15,14 @@ Dependencies
 - nmcli
 
 
-Installation
+Installation Linux 
 =
 Dependencies will be automatically installed.
 
-    $ git clone https://github.com/aryanrtm/KawaiiDeauther
-    $ cd KawaiiDeauther && sudo ./install.sh
-    $ sudo KawaiiDeauther.sh
+    $ git clone https://github.com/AdminOnlineHacking/WifiJammer
+    $ cd WifiJammer && sudo ./install.sh
+    $ chmod +x *
+    $ sudo ./WifiJamOnlineHacking.sh
 
 
 Demo
