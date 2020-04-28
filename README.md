@@ -1,4 +1,4 @@
-# KawaiiDeauther
+# WifiJammer
 [![License](https://img.shields.io/badge/License-GPL-red.svg)](https://github.com/aryanrtm/KawaiiDeauther/blob/master/LICENSE)  [![Version](https://img.shields.io/badge/Release-1.2-blue.svg?maxAge=259200)]()  [![Build](https://img.shields.io/badge/Supported_OS-Linux-green.svg)]()  [![asciinema](https://img.shields.io/badge/asciinema-Demo-red.svg)](https://asciinema.org/a/294970)
 <br/>
 <br/>
@@ -50,17 +50,3 @@ Features
 - Takedown all channels
 - Spam many fake AP
 
-
-Contact
-=
-- Twitter: @4wsec_
-
-
-License
-=
-GNU General Public License v3.0
-
-
-Copyright
-=
-Kawaii Deauther is made with ❤️ by Arya Narotama - Anon Cyber Team - 2020
