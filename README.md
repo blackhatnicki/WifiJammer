@@ -28,7 +28,7 @@ Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 <br/>
 ***Kawaii Deauther*** is a pentest toolkit whose goal is to perform jam on WiFi clients/routers and spam many fake AP for testing purposes.
 
-![Screenshot from 2020-01-29 21-11-48](https://user-images.githubusercontent.com/32659320/73364024-600e2700-42dc-11ea-975e-b5f2b350b956.png)
+![Screenshot from 2020-01-29 21-11-48](https://i.pinimg.com/originals/8a/87/19/8a87192e7cba6935a4e0015b16f6783a.png)
 
 
 Dependencies
