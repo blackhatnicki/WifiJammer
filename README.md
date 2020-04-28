@@ -44,8 +44,9 @@ Installation Linux
 Dependencies will be automatically installed.
 
     $ git clone https://github.com/AdminOnlineHacking/WifiJammer
-    $ cd WifiJammer && sudo ./install.sh
-    $ chmod +x *
+    $ cd WifiJammer
+    $ $ chmod +x * 
+    $ sudo ./install.sh
     $ sudo ./WifiJamOnlineHacking.sh
 
 
