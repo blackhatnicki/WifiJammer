@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://i.pinimg.com/originals/06/14/57/06145768bc2556520df223f88d7a971a.jpg">  
+  <img src="https://i.pinimg.com/originals/54/19/02/541902f716f7edd427cfa5a9e1230be6.png">  
 
 </p>
 
@@ -18,7 +18,7 @@
 
 Twitter: <a href="https://twitter.com/suman333mondal">@suman333mondal</a>
 
-Github: <a href="https://github.com/AdminOnlineHacking">@AdminOnlineHacking</a>
+Github: <a href="https://github.com/OnlineHacking">@AdminOnlineHacking</a>
 
 Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 
@@ -43,7 +43,7 @@ Installation Linux
 =
 Dependencies will be automatically installed.
 
-    $ git clone https://github.com/AdminOnlineHacking/WifiJammer
+    $ git clone https://github.com/OnlineHacking/WifiJammer
     $ cd WifiJammer
     $ $ chmod +x * 
     $ sudo ./install.sh
@@ -84,7 +84,7 @@ Channel:- https://t.me/OnlineHacking
 
 Group:- https://t.me/OnlineHacking0
 
-                                              Inspired By github.com/AdminOnlineHacking
+                                              Inspired By github.com/OnlineHacking
 
 # support me
 
